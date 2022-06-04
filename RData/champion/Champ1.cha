@@ -1,0 +1,877 @@
+Name  	"Pagal taðkus. Naujokëlis";
+Code    	"PointA";
+Type    	PUNTOS;
+Access	"Free";
+Carnet  	A;
+GiveCar	A;
+Track
+{
+	Name    "Luna";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Venus";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Vegas";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name  	"Pagal taðkus. Naujokëlis";
+Code    	"PointAQ";
+Type    	PUNTOS;
+Access	"PointA";
+Carnet  	A;
+GiveCar	A;
+Track
+{
+	Name    "Bali";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "China";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Rusia";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+
+Name    	"Laikui. Naujokëlis";
+Code   	"TimeA";
+Type   	TIEMPO;
+Access	"PointAQ";
+Carnet  	A;
+GiveCar	A;
+Track
+{
+	Name    "Vegas";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Sahara";
+	Laps    3;
+	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Luna";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name    	"Laikui. Naujokëlis";
+Code   	"TimeAQ";
+Type   	TIEMPO;
+Access	"TimeA";
+Carnet  	A;
+GiveCar	A;
+Track
+{
+	Name    "Rusia";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "China";
+	Laps    3;
+	Reverse;
+	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Bali";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Name   	"Iðlikimui. Naujokëlis";
+Code    	"ElimiA";
+Type    	ELIMINACION;
+Access	"TimeAQ";
+Carnet 	A;
+Track
+{
+	Name    "Venus";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Luna";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Vegas";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Sahara";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name   	"Iðlikimui. Naujokëlis";
+Code    	"ElimiAQ";
+Type    	ELIMINACION;
+Access	"ElimiA";
+Carnet 	A;
+GiveCar	B;
+Track
+{
+	Name    "Rusia";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "China";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Bali";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name  	"Pagal taðkus. Lenktynininkas";
+Code    	"PointB";
+Type    	PUNTOS;
+Access	"ElimiAQ";
+Carnet  	B;
+GiveCar	B;
+Track
+{
+	Name    "Atolon";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Sahara";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Luna";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Name  	"Pagal taðkus. Lenktynininkas";
+Code    	"PointBQ";
+Type    	PUNTOS;
+Access	"PointB";
+Carnet  	B;
+GiveCar	B;
+Track
+{
+	Name    "China";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Bali";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Petra";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Name    	"Laikui. Lenktynininkas";
+Code   	"TimeB";
+Type   	TIEMPO;
+Access	"PointBQ";
+Carnet  	B;
+GiveCar	B;
+Track
+{
+	Name    "Sahara";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Atolon";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Amazonia";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name    	"Laikui. Lenktynininkas";
+Code   	"TimeBQ";
+Type   	TIEMPO;
+Access	"TimeB";
+Carnet  	B;
+GiveCar	B;
+Track
+{
+	Name    "Rusia";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "China";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Petra";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name   	"Iðlikimui. Lenktynininkas";
+Code    	"ElimiB";
+Type    	ELIMINACION;
+Access	"TimeBQ";
+Carnet 	B;
+GiveCar	B;
+Track
+{
+	Name    "Sahara";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Atolon";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Amazonia";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Japon";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name   	"Iðlikimui. Lenktynininkas";
+Code    	"ElimiBQ";
+Type    	ELIMINACION;
+Access	"ElimiB";
+Carnet 	B;
+GiveCar	C;
+Track
+{
+	Name    "Petra";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Mali";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "China";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Name  	"Pagal taðkus. Profas";
+Code    	"PointC";
+Type    	PUNTOS;
+Access	"ElimiBQ";
+Carnet  	C;
+GiveCar	C;
+Track
+{
+	Name    "Japon";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Amazonia";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Castilla";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name  	"Pagal taðkus. Profas";
+Code    	"PointCQ";
+Type    	PUNTOS;
+Access	"PointC";
+Carnet  	C;
+GiveCar	C;
+Track
+{
+	Name    "Petra";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Mali";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Grecia";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Name    	"Laikui. Profas";
+Code   	"TimeC";
+Type   	TIEMPO;
+Access	"PointCQ";
+Carnet  	C;
+GiveCar	C;
+Track
+{
+	Name    "Castilla";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Japon";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Alaska";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name    	"Laikui. Profas";
+Code   	"TimeCQ";
+Type   	TIEMPO;
+Access	"TimeC";
+Carnet  	C;
+GiveCar	C;
+Track
+{
+	Name    "Mali";
+	Laps    3;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Petra";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Sicilia";
+	Laps    3;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name   	"Iðlikimui. Profas";
+Code    	"ElimiC";
+Type    	ELIMINACION;
+Access	"TimeCQ";
+Carnet 	C;
+GiveCar	C;
+Track
+{
+	Name    "Castilla";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Alaska";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Japon";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Venus";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+Name   	"Iðlikimui. Profas";
+Code    	"ElimiCQ";
+Type    	ELIMINACION;
+Access	"ElimiC";
+Carnet 	C;
+GiveCar	D;
+Track
+{
+	Name    "Grecia";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Sicilia";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Mali";
+	Laps    5;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
+
+Track
+{
+	Name    "Petra";
+	Laps    5;
+	Reverse;
+   	Weather Snowy;
+		Fog	Yes;
+		FogStart 0;
+		FogEnd	400;
+		FogColor .7,.7,.7;
+		DayTime Day;
+	Time    0;
+}
