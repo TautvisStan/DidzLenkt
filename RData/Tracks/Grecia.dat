@@ -1,0 +1,8 @@
+Name    	"Grecia";
+R3DFile	"Grecia";
+Photo		"Grecia.bmp";
+PhotoSmall	"";
+Sky1		"";
+Sky2		"";
+FogColor	1,1,1;
+Music		"Track05.mp3";

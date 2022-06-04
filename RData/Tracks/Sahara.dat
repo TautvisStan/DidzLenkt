@@ -1,0 +1,8 @@
+Name    	"Sahara";
+R3DFile		"Sahara";
+Photo		"Sahara.bmp";
+PhotoSmall	"Sahara.bmp";
+Sky1		"Cielo_SAHARA.bmp";
+Sky2		"Cielo_LUNA.bmp";
+FogColor	1,1,1;
+Music		"Track01.mp3";

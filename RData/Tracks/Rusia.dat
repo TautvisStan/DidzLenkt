@@ -1,0 +1,8 @@
+Name    	"Rusia";
+R3DFile	"Rusia";
+Photo		"Rusia.bmp";
+PhotoSmall	"";
+Sky1		"";
+Sky2		"";
+FogColor	1,1,1;
+Music		"Track00.mp3";

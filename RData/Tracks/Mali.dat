@@ -1,0 +1,8 @@
+Name    	"Mali";
+R3DFile		"Mali";
+Photo		"Mali.bmp";
+PhotoSmall	"Mali.bmp";
+Sky1		"Cielo_SAHARA.bmp";
+Sky2		"Cielo_LUNA.bmp";
+FogColor	1,1,1;
+Music		"Track02.mp3";

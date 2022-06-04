@@ -1,0 +1,8 @@
+Name    	"Venus";
+R3DFile		"Venus";
+Photo		"Venus.bmp";
+PhotoSmall	"Venus.bmp";
+Sky1		"Cielo_Venus.bmp";
+Sky2		"Cielo_Venus.bmp";
+FogColor	1,1,1;
+Music		"Track05.mp3";

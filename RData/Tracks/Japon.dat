@@ -1,0 +1,8 @@
+Name    	"Japon";
+R3DFile		"Japon";
+Photo		"Japon.bmp";
+PhotoSmall	"Japon.bmp";
+Sky1		"Cielo_Japon.bmp";
+Sky2		"Cielo_Japon.bmp";
+FogColor	1,1,1;
+Music		"Track05.mp3";

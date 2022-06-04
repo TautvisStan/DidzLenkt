@@ -1,0 +1,8 @@
+Name    	"China";
+R3DFile	"China";
+Photo		"China.bmp";
+PhotoSmall	"";
+Sky1		"";
+Sky2		"";
+FogColor	1,1,1;
+Music		"Track04.mp3";

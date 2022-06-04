@@ -1,0 +1,8 @@
+Name    	"Castilla";
+R3DFile		"castilla";
+Photo		"castilla.bmp";
+PhotoSmall	"castilla.bmp";
+Sky1		"Cielo_SAHARA.bmp";
+Sky2		"Cielo_LUNA.bmp";
+FogColor	1,1,1;
+Music		"Track03.mp3";

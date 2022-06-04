@@ -1,0 +1,8 @@
+Name    	"Sicilia";
+R3DFile	"Sicilia";
+Photo		"Sicilia.bmp";
+PhotoSmall	"";
+Sky1		"";
+Sky2		"";
+FogColor	1,1,1;
+Music		"Track02.mp3";
