@@ -1,0 +1,216 @@
+Game01
+{
+	Pos
+	{
+		World			0 3.5 0;
+	}
+	Ori
+	{
+		World			0 3 0;
+		ObjZ			2 0 2;
+	}
+
+	CamPos
+	{
+		Elast			2.5f;
+		Distance		4.5 4.3333 4.5;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
+
+
+Game02
+{
+	Pos
+	{
+		World			0 4.3 0;
+	}
+	Ori
+	{
+		World			0 3 0;
+		ObjZ			2 0 2;
+	}
+
+	CamPos
+	{
+		Elast			4;
+		Distance		7.5 5 7.5;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
+
+
+Game00
+{
+	Pos
+	{
+		World			0 6.4 0;
+	}
+	Ori
+	{
+		World			0 4 0;
+		ObjZ			2 0 2;
+	}
+
+	CamPos
+	{
+		Elast			4;
+		Distance		14 9.3333 14;
+	}
+	CamOri
+	{
+		Elast			2;
+	}
+}
+
+
+GameBak
+{
+	Pos
+	{
+		World			0 3 0;
+	}
+	Ori
+	{
+		World			0 2.5 0;
+		ObjZ			-2 0 -2;
+	}
+
+	CamPos
+	{
+		Elast			1;
+		Distance		7.5 5 7.5;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
+
+Front
+{
+	Pos
+	{
+		World			0 .5 0;
+		ObjZ			2 0 2;
+	}
+	Ori
+	{
+		World			0 3 0;
+		ObjZ			-1.5 0 -1.5;
+	}
+
+	CamPos
+	{
+		Elast			1.75f;
+		Distance		5 1 5;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
+
+
+
+
+FrontCircular
+{
+	Pos
+	{
+		World			0 1.4 0;
+		ObjZ			2 0 2;
+	}
+	Ori
+	{
+		World			0 3 0;
+		ObjZ			-1 0 -1;
+	}
+
+	CamPos
+	{
+		Elast			3;
+		Distance		5 1 5;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
+
+
+
+Top
+{
+	Pos
+	{
+		World			0 4.4 0;
+	}
+	Ori
+	{
+		World			0 3 0;
+		CamZ			15 0 15;
+	}
+
+	CamPos
+	{
+		Elast			4;
+		Distance		30 50 30;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
+
+
+Left
+{
+	Pos
+	{
+		World			0 4.4 0;
+		ObjX			10 0 10;
+	}
+	Ori
+	{
+		World			0 3 0;
+	}
+
+	CamPos
+	{
+		Elast			4;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
+
+
+Back
+{
+	Pos
+	{
+		World			0 2.4 0;
+	}
+	Ori
+	{
+		World			0 3 0;
+	}
+
+	CamPos
+	{
+		Elast			4;
+		Distance		5 2 5;
+	}
+	CamOri
+	{
+		Elast			8;
+	}
+}
