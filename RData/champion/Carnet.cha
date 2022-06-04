@@ -1,0 +1,110 @@
+Name		"Kategorija A";
+Code		"Carnet_A";
+Type		CARNET;
+Access	"Free";
+GiveCarnet 	A;
+Track
+{
+    Name    "Venus";
+    Laps    3;
+    Weather Rainy;
+	Fog		Yes;
+	FogStart 	100;
+	FogEnd	500;
+	FogColor 	.9,.3,.3;
+    DayTime Day;
+    Time    200;
+}
+
+Name		"Kategorija A";
+Code		"Carnet_AQ";
+Type		CARNET;
+Access	"Free";
+GiveCarnet 	A;
+Track
+{
+    Name    "Bali";
+    Laps    3;
+    Weather Rainy;
+	Fog		Yes;
+	FogStart 	100;
+	FogEnd	500;
+	FogColor 	.9,.3,.3;
+    DayTime Day;
+    Time    270;
+}
+
+
+Name		"Kategorija B";
+Code		"Carnet_B";
+Type		CARNET;
+Access	"ElimiAQ";
+Carnet     A;
+GiveCarnet B;
+Track
+{
+    Name	"Sahara";
+    Laps    3;
+    Weather Sunny;
+	Fog		Yes;
+	FogStart 	100;
+	FogEnd	500;
+	FogColor 	.9,.3,.3;
+    DayTime Day;
+    Time    195;
+}
+Name		"Kategorija B";
+Code		"Carnet_BQ";
+Type		CARNET;
+Access	"ElimiAQ";
+Carnet     A;
+GiveCarnet B;
+Track
+{
+    Name	"Mali";
+    Laps    3;
+    Weather Sunny;
+	Fog		Yes;
+	FogStart 	100;
+	FogEnd	500;
+	FogColor 	.9,.3,.3;
+    DayTime Day;
+    Time    240;
+}
+
+Name		"Kategorija C";
+Code    	"Carnet_C";
+Type    	CARNET;
+Access	"ElimiBQ";
+Carnet     	B;
+GiveCarnet 	C;
+Track
+{
+    Name    "Castilla";
+    Laps    3;
+    Weather Sunny;
+	Fog		Yes;
+	FogStart 	100;
+	FogEnd	500;
+	FogColor 	.9,.3,.3;
+    DayTime Day;
+    Time    240;
+}
+Name		"Kategorija C";
+Code    	"Carnet_CQ";
+Type    	CARNET;
+Access	"ElimiBQ";
+Carnet     	B;
+GiveCarnet 	C;
+Track
+{
+    Name    "Petra";
+    Laps    3;
+    Weather Sunny;
+	Fog		Yes;
+	FogStart 	100;
+	FogEnd	500;
+	FogColor 	.9,.3,.3;
+    DayTime Day;
+    Time    260;
+}
