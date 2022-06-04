@@ -1,0 +1,8 @@
+Name    	"Amazonia";
+R3DFile		"Amazonia";
+Photo		"Amazonia.bmp";
+PhotoSmall	"Amazonia.bmp";
+Sky1		"Cielo_Amazonia.bmp";
+Sky2		"Cielo_Amazonia.bmp";
+FogColor	1,1,1;
+Music		"Track01.mp3";

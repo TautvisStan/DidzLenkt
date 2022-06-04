@@ -1,0 +1,8 @@
+Name    	"Atolon";
+R3DFile		"Atolon";
+Photo		"Atolon.bmp";
+PhotoSmall	"Atolon.bmp";
+Sky1		"Cielo_SAHARA.bmp";
+Sky2		"Cielo_LUNA.bmp";
+FogColor	1,1,1;
+Music		"Track02.mp3";
