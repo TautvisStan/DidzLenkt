@@ -1,0 +1,8 @@
+Name    	"Alaska";
+R3DFile		"Alaska";
+Photo		"Alaska.bmp";
+PhotoSmall	"Alaska.bmp";
+Sky1		"Cielo_Venus.bmp";
+Sky2		"Cielo_Venus.bmp";
+FogColor	1,1,1;
+Music		"Track00.mp3";
