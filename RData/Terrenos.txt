@@ -1,0 +1,483 @@
+Agua
+{
+	Bote		.5;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Sound		"Agua";
+	}
+	Action
+	{
+		Acc		.015;
+		Derrape		2;
+	}
+}
+
+
+Adoquin
+{
+	Bote		.35;
+	Force		.9;
+	Friction	1;
+	Action
+	{
+		Acc		.032;
+		Sound		"Adoquin";
+		Particle	"HumoBlanco";
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+ALuna
+{
+	Bote		.1;
+	Force		1;
+	Friction	1;
+	Action
+	{
+		Acc		.032;
+		Sound		"Arena";
+		Particle	"HumoBlanco";
+		Rnd		50;
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+ALunaL
+{
+	Bote		.7;
+	Force		.7;
+	Friction	1.6;
+	Action
+	{
+		Vel		.2;
+		Acc		.02;
+		Sound		"ArenaL";
+		Particle	"HumoBlanco";
+		Rnd		10;
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+ArenaC
+{
+	Bote		.1;
+	Force		1;
+	Friction	1;
+	Action
+	{
+		Acc		.032;
+		Sound		"Arena";
+		Particle	"HumoMarron";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+AreCes
+{
+	Bote		.1;
+	Force		.7;
+	Friction	1;
+	Action
+	{
+		Acc		.032;
+		Sound		"Arena";
+		Particle	"HumoMarron";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.032;
+		Particle	"Cesped";
+		Sound		"Cesped";
+		Rnd		10;
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+Arena
+{
+	Bote		.1;
+	Force		1;
+	Friction	1;
+	Action
+	{
+		Acc		.032;
+		Sound		"Arena";
+		Particle	"HumoMarron";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+ArenaL
+{
+	Bote		.5;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.02;
+		Sound		"Arena";
+		Particle	"HumoMarron";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+ArenaLenta
+{
+	Bote		.5;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.02;
+		Sound		"Arena";
+		Particle	"HumoMarron";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+Asfalto
+{
+	Bote		.25;
+	Force		1;
+	Friction	1;
+	Action
+	{
+		Acc		.032;
+		Particle	"HumoBlanco";
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+Cesped
+{
+	Bote		.6;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Sound		"Cesped";
+		Particle	"Cesped";
+	}
+	Action
+	{
+		Acc		.015;
+		Derrape		2;
+	}
+}
+
+Huerta
+{
+	Bote		.7;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Sound		"Cesped";
+		Particle	"Cesped";
+	}
+	Action
+	{
+		Acc		.015;
+		Derrape		2;
+	}
+}
+
+HuertaB
+{
+	Bote		.7;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Sound		"Cesped";
+		Particle	"Tierra";
+	}
+	Action
+	{
+		Acc		.015;
+		Derrape		2;
+	}
+}
+
+Lava
+{
+	Bote		.5;
+	Force		.6;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Sound		"Lava";
+		Particle	"Lava";
+		Rnd		50;
+	}
+	Action
+	{
+		Acc		.015;
+		Derrape		2;
+	}
+}
+
+Metal
+{
+	Bote		.5;
+	Force		.9;
+	Friction	1.5;
+	Action
+	{
+		Vel		.01;
+		Acc		.01;
+		Sound		"Metal";
+		Rnd		75;
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+Nieve
+{
+	Bote		.2;
+	Force		.7;
+	Friction	.6;
+	Action
+	{
+		Acc		.02;
+		Sound		"Nieve";
+		Particle	"Nieve";
+	}
+	Action
+	{
+		Acc		.02;
+		Particle	"HumoBlanco";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+NieveL
+{
+	Bote		.7;
+	Force		.7;
+	Friction	1;
+	Action
+	{
+		Acc		.02;
+		Sound		"NieveL";
+		Particle	"Nieve";
+	}
+	Action
+	{
+		Acc		.02;
+		Particle	"HumoBlanco";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+Paja
+{
+	Bote		.5;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Sound		"cesped";
+		Particle	"paja";
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+Roca
+{
+	Bote		.3;
+	Force		1;
+	Friction	1;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Particle	"HumoBlanco";
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+RXMetal
+{
+	Bote		.5;
+	Force		1;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.02;
+		Sound		"Metal";
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+Tablon
+{
+	Bote		.5;
+	Force		.9;
+	Friction	1.5;
+	Action
+	{
+		Vel			.4;
+		Acc			.02;
+		Sound		"Tablones";
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+Tablones
+{
+	Bote		.5;
+	Force		.9;
+	Friction	1.5;
+	Action
+	{
+		Vel			.2;
+		Acc			.02;
+		Sound		"Tablones";
+	}
+	Action
+	{
+		Acc		.032;
+		Derrape		2;
+	}
+}
+
+TierraL
+{
+	Bote		.5;
+	Force		.7;
+	Friction	1.5;
+	Action
+	{
+		Vel		.2;
+		Acc		.015;
+		Sound		"Arena";
+		Particle	"HumoMarron";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+Rampa
+{
+	Bote		.5;
+	Force		2;
+	Friction	1;
+	Action
+	{
+		Vel		.1.5;
+		Acc		.015;
+		Particle	"HumoMarron";
+		Rnd		25;
+	}
+	Action
+	{
+		Acc		.02;
+		Derrape		2;
+	}
+}
+
+Hielo
+{
+	Bote		.1;
+	Force		.15;
+	Friction	.1;
+	Action
+	{
+		Vel		.08;
+		Acc		.08;
+		Sound		"Ice";
+	}
+}

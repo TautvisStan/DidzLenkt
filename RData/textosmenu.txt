@@ -1,0 +1,57 @@
+
+"Áraðykite savo vardà"
+"Þaidimas"
+"Pasirinktys"
+"Trumpas apraðymas"
+"Oficiali interneto svetainë"
+"Iðëjimas"
+
+"Nustatymai:"
+"Vaizdo tvarkyklë"
+"Ekrano skiriamoji geba"
+"Paleisti lange"
+"Valdymas"
+"Diktorius"
+
+"Matomumas"
+"Detalizacijos laipsnis"
+"Fiz. modelio panaðumas"
+"Garso kokybë"
+"Muzikos garsumas"
+
+"Valdymas"
+"Þaidëjas 1"
+"Þaidëjas 2"
+"Þaidëjas 3"
+"Þaidëjas 4"
+"Pakeisti"
+
+"Kairën"
+"Deðinën"
+"Greitis"
+"Stabdis"
+"Rankinis stabdis"
+"Premija"
+"Kamera"
+"Galinë kamera"
+"Standartiniai nustatymai"
+
+"Jûs ásitikinæs?"
+
+"Taip"
+"Ne"
+
+"OK"
+"Atðaukti"
+
+"Áraðykite serverio adresà"
+"IP"
+"Portas"
+"Tinklas"
+"Paieðka tinkle"
+"Nurodykite serverá"
+
+"Paspauskite..."
+
+"Ádëkite þaidimo CD"
+"Pakartoti"
