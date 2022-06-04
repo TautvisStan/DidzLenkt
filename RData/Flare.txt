@@ -1,0 +1,121 @@
+Flare FlareSun
+{
+	Halo	
+	{
+		OffSet	0;
+		Scale	.7;
+		Color	1 1 8;
+		Textura	"FlareA.bmp";
+	}
+	Halo	
+	{
+		OffSet	1.2;
+		Scale	.04;
+		Color	.2 .1 .1;
+		Textura	"Flare6.bmp";
+	}
+	Halo	
+	{
+		OffSet	.7;
+		Scale	.08;
+		Color	.2 .1 .2;
+		Textura	"Flare2.bmp";
+	}
+	Halo	
+	{
+		OffSet	.2;
+		Scale	.05;
+		Color	.1 .2 .2;
+		Textura	"Flare3.bmp";
+	}
+	Halo	
+	{
+		OffSet	0;
+		Scale	.09;
+		Color	.2 .1 .1;
+		Textura	"Flare1.bmp";
+	}
+	Halo	
+	{
+		OffSet	-.3;
+		Scale	.11;
+		Color	.2 .1 .1;
+		Textura	"Flare6.bmp";
+	}
+	Halo	
+	{
+		OffSet	-.7;
+		Scale	.15;
+		Color	.1 .2 .2;
+		Textura	"Flare3.bmp";
+	}
+	Halo	
+	{
+		OffSet	-1.2;
+		Scale	.2;
+		Color	.2 .2 .2;
+		Textura	"Flare5.bmp";
+	}
+	Halo	
+	{
+		OffSet	-2.25;
+		Scale	.4;
+		Color	.2 .2 .1;
+		Textura	"Flare4.bmp";
+	}
+}
+
+Flare FlareB
+{
+	General
+	{
+		DisMin	8;
+		DisRan	100;
+	}
+	Halo	
+	{
+		OffSet	0;
+		Scale	.3;
+		Color	.9 .9 .9;
+		Textura	"FlareB.bmp";
+	}
+}
+
+Flare FlareC
+{
+	General
+	{
+		DisMin	10;
+		DisRan	125;
+	}
+	Halo	
+	{
+		OffSet	0;
+		Scale	.2;
+		Color	1 1 1;
+		Textura	"Flare1.bmp";
+	}
+	Halo	
+	{
+		OffSet	.2;
+		Scale	.05;
+		Color	.1 .2 .2;
+		Textura	"Flare3.bmp";
+	}
+	Halo	
+	{
+		OffSet	0;
+		Scale	.09;
+		Color	.2 .1 .1;
+		Textura	"Flare1.bmp";
+	}
+	Halo	
+	{
+		OffSet	-.1;
+		Scale	.11;
+		Color	.2 .1 .1;
+		Textura	"Flare5.bmp";
+	}
+}
+
+

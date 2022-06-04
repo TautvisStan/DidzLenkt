@@ -1,0 +1,92 @@
+
+Clase
+{
+	iatvels 	.9;
+	iatvelp 	.05;
+	chicle		.5;
+	iaback		0;
+	iahand		0;
+	iabrake		0;
+	ialook		1 5;
+	potencia	14;
+	aceleracion		.05;
+	freno			.05;
+	deceleracion	.0125;
+}
+
+
+Item
+{
+	Standart
+	{
+		 5 MISIL;
+		 3 MINE;
+		 3 NAPALM;
+		 2 CLOUD;
+		 2 BOMB;
+		 2 TURBO0;
+		 2 FIRST;
+		 2 SHIELD;
+	 	 1 REPARA;
+	}
+
+	Next
+	{
+      		 6 MISIL;
+	         2 NAPALM;
+	 	 2 MINE;
+		 2 CLOUD;
+		 1 TURBO0;
+		 1 FIRST;
+		 1 BOMB;
+		 1 SHIELD;
+	}
+
+	Back
+	{
+		8 MINE;
+		8 SHIELD;
+		6 CLOUD;
+		2 MISIL;
+		2 BOMB;
+		1 FIRST;
+	}
+
+	Avante
+	{
+		4 TURBO0;
+		2 MISIL;
+		2 NAPALM;
+		1 BOMB;
+		2 FIRST;
+	}
+
+	Avante1
+	{
+		4 MISIL;
+		6 SHIELD;
+		3 MINE;
+		3 CLOUD;
+		2 BOMB;
+		1 FIRST;
+	}
+
+	Shield
+	{
+	       12 SHIELD;
+		2 MISIL;
+		2 BOMB;
+		4 MINE;
+		4 CLOUD;
+		1 NAPALM;
+	}
+
+	Turbo
+	{
+	       10 TURBO0;
+		1 MISIL;
+		2 NAPALM;
+		2 FIRST;
+	}
+
+}
